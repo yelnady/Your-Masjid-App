@@ -1,2 +1,2 @@
-# Masjid-CrossPlatform-Template-App
+# Build a Cross-Platform App for Your Masjid
  
