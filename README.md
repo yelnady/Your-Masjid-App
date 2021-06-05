@@ -2,7 +2,8 @@
  
   **YourMasjid** is a cross-platform app, built using Node.Js, React Native, Expo, and Python.
 
-
+<a href="url"><img src="https://github.com/yelnady/Your-Masjid-App/blob/main/Others/ss1.jpg?raw=true" width="300">                                  <a href="url"><img src="https://github.com/yelnady/Your-Masjid-App/blob/main/Others/ss2.jpg?raw=true" width="300">
+ <a href="url"><img src="https://github.com/yelnady/Your-Masjid-App/blob/main/Others/ss3.jpg?raw=true" width="300">                                  <a href="url"><img src="https://github.com/yelnady/Your-Masjid-App/blob/main/Others/ss4.jpg?raw=true" width="300">
 ## Features
 - Fancy UI using **Material Design**.
 - Automatically **highlights upcoming prayer times** (Azan and Iqamah).
